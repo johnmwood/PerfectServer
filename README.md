@@ -1,3 +1,3 @@
 # PerfectServer
 
-A description of this package.
+Learning Swift and practicing backend technologies like PostgreSQL
